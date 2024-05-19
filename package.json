@@ -1,10 +1,11 @@
 {
-  "name": "jeff_2024_portfolio",
+  "name": "2024_portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/palanas-jeffrey/jeff_portfolio_2024",
+  "homepage": "https://github.io/palanas-jeffrey/portfolio",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "tsc && vite build",
     "predeploy": "npm run build",
